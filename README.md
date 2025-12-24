@@ -23,11 +23,11 @@ Personal portfolio showcasing projects, skills, and contact information.
 
 ## About
 
-This repository contains my personal portfolio website. It highlights selected projects, skills, and ways to get in touch. The site is intended to be a concise, maintainable, and deployable representation of my work and experience.
+This repository contains my personal portfolio website. It highlights selected projects, skills, and ways to get in touch. The site is intended to be a concise, maintainable, and deployable repres[...]
 
 ## Live Demo
 
-If you have a live URL (GitHub Pages or another host), add it here. Example: https://your-username.github.io/portfolio
+Visit the live portfolio here: https://portfolio-seven-beta-71.vercel.app/
 
 ## Features
 
