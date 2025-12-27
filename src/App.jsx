@@ -27,7 +27,7 @@ import {
 } from "lucide-react";
 
 // --- API CONFIGURATION ---
-const apiKey = ""; // API Key will be injected by the environment
+const apiKey = import.meta.env.VITE_GEMINI_API_KEY; // API Key will be injected by the environment
 
 // --- CV DATA ---
 const HERO_DATA = {
